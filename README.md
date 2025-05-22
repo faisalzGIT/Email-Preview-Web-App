@@ -8,10 +8,6 @@ A modern web application Built with Node.js, Express, EJS, Tailwind CSS, and int
 - **Label Overview**: See counts for Inbox, Unread, Starred, Sent, Spam, Trash, and Drafts.
 - **Modern UI**: Clean, responsive design using Tailwind CSS.
 
-## Screenshots
-![EMP Login Page](screenshot-login.png)
-![EMP Inbox Preview](screenshot-inbox.png)
-
 ## Getting Started
 
 ### Prerequisites
